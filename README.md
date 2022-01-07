@@ -9,4 +9,4 @@ An attempt to collects tools and resources about machine-learning-powered  desig
 
 
 # Other Resources And Tools
-- [Three Principles for Designing ML-Powered Products (spotify)](https://spotify.design/article/three-principles-for-designing-ml-powered-products)
+- [The Human-AI eXperience (HAX) Toolkit (microsoft)](https://www.microsoft.com/en-us/haxtoolkit/)
