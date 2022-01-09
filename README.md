@@ -1,5 +1,5 @@
 # awesome-ai-in-production
-An attempt to collects tools and resources about machine-learning-powered  design
+An amalgam of tools,papers ,blogs, podcast and videos about artificial intelligence in production
 
 
 # ai-powered-product-design
