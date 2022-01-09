@@ -2,7 +2,7 @@
 An attempt to collects tools and resources about machine-learning-powered  design
 
 
-# ai-powered-design
+# ai-powered-product-design
 
 ## Articles | Papers | Blog Post
 - [Three Principles for Designing ML-Powered Products (spotify)](https://spotify.design/article/three-principles-for-designing-ml-powered-products)
